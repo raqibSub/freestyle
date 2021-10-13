@@ -20,6 +20,7 @@ public class PracticeString {
         
         driver.findElement(By.xpath("//*[@id=\"divLogedOutScreen\"]/div/div[1]/div[1]/div/div[2]/div")).click();
 
+        System.out.println("Hi Worked **********************");
 	}
 
 }
