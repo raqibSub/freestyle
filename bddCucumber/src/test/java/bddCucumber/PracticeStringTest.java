@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class PracticeString {
+public class PracticeStringTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		System.setProperty("webdriver.gecko.driver",
